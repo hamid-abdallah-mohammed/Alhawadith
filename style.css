@@ -70,9 +70,9 @@ form button{
     border: 0;
     outline: none;
     cursor: pointer;
-    width: 150px;
+    width: 100%;
     margin: 20px auto 0;
-    border-radius: 30px;
+    border-radius: 5px;
 }
 
 
@@ -122,6 +122,7 @@ form button{
     outline: none;
     font-size: 20px;
     padding: .6rem;
+  
 }
 
 .test input, textarea{
