@@ -16,7 +16,7 @@ background-size: contain; */
 
 }
 
-.content{
+.content, .office{
     padding: 20px;
     width: 90%;
     margin: 0 right;
@@ -67,3 +67,15 @@ form button{
     border-radius: 30px;
 }
 
+
+.office{
+  border: 1px solid #bbb;
+}
+
+.members{
+    display: flex;
+    justify-content: space-between;
+  gap: 2rem;
+    flex-direction: column;
+    margin-top: 30px;
+}
